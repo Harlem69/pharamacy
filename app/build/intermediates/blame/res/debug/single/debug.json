@@ -1,0 +1,138 @@
+[
+    {
+        "merged": "E:\\Files\\DrunoPharmaceuticals\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_register.xml.flat",
+        "source": "E:\\Files\\DrunoPharmaceuticals\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "E:\\Files\\DrunoPharmaceuticals\\app\\build\\intermediates\\res\\merged\\debug\\drawable_login.png.flat",
+        "source": "E:\\Files\\DrunoPharmaceuticals\\app\\src\\main\\res\\drawable\\login.png"
+    },
+    {
+        "merged": "E:\\Files\\DrunoPharmaceuticals\\app\\build\\intermediates\\res\\merged\\debug\\drawable_back.png.flat",
+        "source": "E:\\Files\\DrunoPharmaceuticals\\app\\src\\main\\res\\drawable\\back.png"
+    },
+    {
+        "merged": "E:\\Files\\DrunoPharmaceuticals\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "E:\\Files\\DrunoPharmaceuticals\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "E:\\Files\\DrunoPharmaceuticals\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Files\\DrunoPharmaceuticals\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\Files\\DrunoPharmaceuticals\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Files\\DrunoPharmaceuticals\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\Files\\DrunoPharmaceuticals\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_supplier_menu.xml.flat",
+        "source": "E:\\Files\\DrunoPharmaceuticals\\app\\src\\main\\res\\layout\\activity_supplier_menu.xml"
+    },
+    {
+        "merged": "E:\\Files\\DrunoPharmaceuticals\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "E:\\Files\\DrunoPharmaceuticals\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Files\\DrunoPharmaceuticals\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dashboard.png.flat",
+        "source": "E:\\Files\\DrunoPharmaceuticals\\app\\src\\main\\res\\drawable\\dashboard.png"
+    },
+    {
+        "merged": "E:\\Files\\DrunoPharmaceuticals\\app\\build\\intermediates\\res\\merged\\debug\\drawable_backgroundimage.png.flat",
+        "source": "E:\\Files\\DrunoPharmaceuticals\\app\\src\\main\\res\\drawable\\backgroundimage.png"
+    },
+    {
+        "merged": "E:\\Files\\DrunoPharmaceuticals\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Files\\DrunoPharmaceuticals\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\Files\\DrunoPharmaceuticals\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_appointment_menu.xml.flat",
+        "source": "E:\\Files\\DrunoPharmaceuticals\\app\\src\\main\\res\\layout\\activity_appointment_menu.xml"
+    },
+    {
+        "merged": "E:\\Files\\DrunoPharmaceuticals\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "E:\\Files\\DrunoPharmaceuticals\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "E:\\Files\\DrunoPharmaceuticals\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Files\\DrunoPharmaceuticals\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\Files\\DrunoPharmaceuticals\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "E:\\Files\\DrunoPharmaceuticals\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\Files\\DrunoPharmaceuticals\\app\\build\\intermediates\\res\\merged\\debug\\drawable_medicalicon3.png.flat",
+        "source": "E:\\Files\\DrunoPharmaceuticals\\app\\src\\main\\res\\drawable\\medicalicon3.png"
+    },
+    {
+        "merged": "E:\\Files\\DrunoPharmaceuticals\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "E:\\Files\\DrunoPharmaceuticals\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "E:\\Files\\DrunoPharmaceuticals\\app\\build\\intermediates\\res\\merged\\debug\\drawable_appointmenticon.png.flat",
+        "source": "E:\\Files\\DrunoPharmaceuticals\\app\\src\\main\\res\\drawable\\appointmenticon.png"
+    },
+    {
+        "merged": "E:\\Files\\DrunoPharmaceuticals\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Files\\DrunoPharmaceuticals\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\Files\\DrunoPharmaceuticals\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_dashboard.xml.flat",
+        "source": "E:\\Files\\DrunoPharmaceuticals\\app\\src\\main\\res\\layout\\activity_dashboard.xml"
+    },
+    {
+        "merged": "E:\\Files\\DrunoPharmaceuticals\\app\\build\\intermediates\\res\\merged\\debug\\drawable_registerbackground.png.flat",
+        "source": "E:\\Files\\DrunoPharmaceuticals\\app\\src\\main\\res\\drawable\\registerbackground.png"
+    },
+    {
+        "merged": "E:\\Files\\DrunoPharmaceuticals\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_prescription_menu.xml.flat",
+        "source": "E:\\Files\\DrunoPharmaceuticals\\app\\src\\main\\res\\layout\\activity_prescription_menu.xml"
+    },
+    {
+        "merged": "E:\\Files\\DrunoPharmaceuticals\\app\\build\\intermediates\\res\\merged\\debug\\drawable_person.png.flat",
+        "source": "E:\\Files\\DrunoPharmaceuticals\\app\\src\\main\\res\\drawable\\person.png"
+    },
+    {
+        "merged": "E:\\Files\\DrunoPharmaceuticals\\app\\build\\intermediates\\res\\merged\\debug\\drawable_suppliericon.png.flat",
+        "source": "E:\\Files\\DrunoPharmaceuticals\\app\\src\\main\\res\\drawable\\suppliericon.png"
+    },
+    {
+        "merged": "E:\\Files\\DrunoPharmaceuticals\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "E:\\Files\\DrunoPharmaceuticals\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Files\\DrunoPharmaceuticals\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "E:\\Files\\DrunoPharmaceuticals\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Files\\DrunoPharmaceuticals\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background.png.flat",
+        "source": "E:\\Files\\DrunoPharmaceuticals\\app\\src\\main\\res\\drawable\\background.png"
+    },
+    {
+        "merged": "E:\\Files\\DrunoPharmaceuticals\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_order_menu.xml.flat",
+        "source": "E:\\Files\\DrunoPharmaceuticals\\app\\src\\main\\res\\layout\\activity_order_menu.xml"
+    },
+    {
+        "merged": "E:\\Files\\DrunoPharmaceuticals\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "E:\\Files\\DrunoPharmaceuticals\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Files\\DrunoPharmaceuticals\\app\\build\\intermediates\\res\\merged\\debug\\drawable_medicalicon1.png.flat",
+        "source": "E:\\Files\\DrunoPharmaceuticals\\app\\src\\main\\res\\drawable\\medicalicon1.png"
+    },
+    {
+        "merged": "E:\\Files\\DrunoPharmaceuticals\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "E:\\Files\\DrunoPharmaceuticals\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Files\\DrunoPharmaceuticals\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "E:\\Files\\DrunoPharmaceuticals\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "E:\\Files\\DrunoPharmaceuticals\\app\\build\\intermediates\\res\\merged\\debug\\drawable_medicalicon.png.flat",
+        "source": "E:\\Files\\DrunoPharmaceuticals\\app\\src\\main\\res\\drawable\\medicalicon.png"
+    },
+    {
+        "merged": "E:\\Files\\DrunoPharmaceuticals\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "E:\\Files\\DrunoPharmaceuticals\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    }
+]

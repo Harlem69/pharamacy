@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/dashboard"
+        tools:context=".Dashboard" android:orientation="vertical">
+
+    <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="399dp"
+            android:layout_height="296dp" android:layout_marginTop="270dp" android:layout_marginRight="5dp"
+            android:layout_marginLeft="15dp" android:layout_marginBottom="15dp">
+        <ScrollView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+            <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content"
+                          android:orientation="vertical">
+                <androidx.cardview.widget.CardView
+                        android:layout_width="351dp"
+                        android:layout_height="70dp" android:layout_marginTop="20dp" android:layout_marginLeft="5dp"
+                        app:cardCornerRadius="30dp">
+                    <ImageView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content" app:srcCompat="@drawable/medicalicon1"
+                            android:id="@+id/imageView" android:layout_weight="1"
+                            android:layout_gravity="clip_horizontal"/>
+                    <Button
+                            android:text="Prescription Menu"
+                            android:layout_width="260dp"
+                            android:layout_height="wrap_content" android:id="@+id/prescriptionbtn"
+                            android:layout_weight="1" android:layout_marginLeft="80dp" android:layout_marginTop="10dp"/>
+                </androidx.cardview.widget.CardView>
+                <androidx.cardview.widget.CardView
+                        android:layout_width="351dp"
+                        android:layout_height="70dp" android:layout_marginTop="20dp" android:layout_marginLeft="5dp"
+                        app:cardCornerRadius="30dp">
+                    <ImageView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content" app:srcCompat="@drawable/medicalicon3"
+                            android:id="@+id/orderimage" android:layout_weight="1"
+                            android:layout_gravity="clip_horizontal"/>
+                    <Button
+                            android:text="Medication order  Menu"
+                            android:layout_width="260dp"
+                            android:layout_height="wrap_content" android:id="@+id/Orderbtn"
+                            android:layout_weight="1" android:layout_marginLeft="80dp" android:layout_marginTop="10dp"/>
+                </androidx.cardview.widget.CardView>
+                <androidx.cardview.widget.CardView
+                        android:layout_width="351dp"
+                        android:layout_height="70dp" android:layout_marginTop="20dp" android:layout_marginLeft="5dp"
+                        app:cardCornerRadius="30dp">
+                    <ImageView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content" app:srcCompat="@drawable/appointmenticon"
+                            android:id="@+id/appointmentimage" android:layout_weight="1"
+                            android:layout_gravity="clip_horizontal"/>
+                    <Button
+                            android:text="product menu"
+                            android:layout_width="260dp"
+                            android:layout_height="wrap_content" android:id="@+id/Appointmentbtn"
+                            android:layout_weight="1" android:layout_marginLeft="80dp" android:layout_marginTop="10dp"/>
+                </androidx.cardview.widget.CardView>
+                <androidx.cardview.widget.CardView
+                        android:layout_width="351dp"
+                        android:layout_height="70dp" android:layout_marginTop="20dp" android:layout_marginLeft="5dp"
+                        app:cardCornerRadius="30dp">
+                    <ImageView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content" app:srcCompat="@drawable/suppliericon"
+                            android:id="@+id/supplier" android:layout_weight="1"
+                            android:layout_gravity="clip_horizontal"/>
+                    <Button
+                            android:text="Pharmaceutical supplier menu"
+                            android:layout_width="260dp"
+                            android:layout_height="wrap_content" android:id="@+id/Supplierbtn"
+                            android:layout_weight="1" android:layout_marginLeft="80dp" android:layout_marginTop="10dp"/>
+                </androidx.cardview.widget.CardView>
+
+            </LinearLayout>
+        </ScrollView>
+    </LinearLayout>
+</LinearLayout>
